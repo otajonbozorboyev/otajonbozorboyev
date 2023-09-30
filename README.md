@@ -1,8 +1,7 @@
 # About me
 <p>Hey! 👋 I'm Otajon Bozorboyev (otajonbozorboyev).</p>
 
-<p>You can follow me, contact me, see what I do, or use my open source code:</p>
-
+- LinkedIn:                            [otajonbozorboyev](https://www.linkedin.com/in/otajonbozorboyev/)
 - GitHub:                             [otajonbozorboyev](https://github.com/otajonbozorboyev)
 - Leetcode:                           [otajonbozorboyev571](https://leetcode.com/otajonbozorboyev571/)
 - Telegram:                           [otajonbozorboyev](https://t.me/otajonbozorboyev)
