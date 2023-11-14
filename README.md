@@ -2,7 +2,6 @@
 <p>Hey! 👋 I'm Otajon Bozorboyev (otajonbozorboyev).</p>
 
 - LinkedIn:                            [otajonbozorboyev](https://www.linkedin.com/in/otajonbozorboyev/)
-- GitHub:                             [otajonbozorboyev](https://github.com/otajonbozorboyev)
 - Leetcode:                           [otajonbozorboyev571](https://leetcode.com/otajonbozorboyev571/)
 - Telegram:                           [otajonbozorboyev](https://t.me/otajonbozorboyev)
 - Robocontest:                        [otajonbozorboyev](https://robocontest.uz/profile/otajonbozorboyev)
