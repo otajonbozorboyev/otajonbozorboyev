@@ -12,7 +12,7 @@
 [![My Skills](https://skillicons.dev/icons?i=git,mysql,vscode,html,css,javascript,photoshop)](https://skillicons.dev)
 
 <details>
-  <summary><b><h2>Github Stats ⚡ <h2></b></summary>
+  <summary><b><h2>Github Stats 📈 <h2></b></summary>
   <a href="https://github.com/otajonbozorboyev">
     <p align="left">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=otajonbozorboyev&theme=github_dark">
