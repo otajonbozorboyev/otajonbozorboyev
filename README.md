@@ -4,7 +4,6 @@
 - LinkedIn:                            [otajonbozorboyev](https://www.linkedin.com/in/otajonbozorboyev/)
 - Leetcode:                           [otajonbozorboyev571](https://leetcode.com/otajonbozorboyev571/)
 - Telegram:                           [otajonbozorboyev](https://t.me/otajonbozorboyev)
-- Robocontest:                        [otajonbozorboyev](https://robocontest.uz/profile/otajonbozorboyev)
 ## Main tools
 [![My Skills](https://skillicons.dev/icons?i=python,c,django,postgresql,github)](https://skillicons.dev)
 
