@@ -5,10 +5,10 @@
 - Leetcode:                           [otajonbozorboyev571](https://leetcode.com/otajonbozorboyev571/)
 - Telegram:                           [otajonbozorboyev](https://t.me/otajonbozorboyev)
 ## Main tools
-[![My Skills](https://skillicons.dev/icons?i=c,python,django,html,css,js,react,nodejs,postgresql,sqlite,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,python,django,html,css,js,react,nodejs,docker)](https://skillicons.dev)
 
 ## Other tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,pycharm,postman,photoshop)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,postgresql,sqlite,mysql,vscode,pycharm,postman,photoshop)](https://skillicons.dev)
 
 <details>
   <summary><b><h2>Github Stats 📈 <h2></b></summary>
