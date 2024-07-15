@@ -8,7 +8,7 @@
 [![My Skills](https://skillicons.dev/icons?i=c,python,django,html,css,tailwind,js,react,nodejs,docker)](https://skillicons.dev)
 
 ## Other tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,postgresql,sqlite,mysql,vscode,pycharm,postman,photoshop)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,postgresql,sqlite,mysql,vscode,pycharm,postman,notion,photoshop)](https://skillicons.dev)
 
 <details>
   <summary><b><h2>Github Stats 📈 <h2></b></summary>
