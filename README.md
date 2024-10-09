@@ -5,7 +5,7 @@
 - Leetcode:                           [otajonbozorboyev571](https://leetcode.com/otajonbozorboyev571/)
 - Telegram:                           [otajonbozorboyev](https://t.me/otajonbozorboyev)
 ## Main tools
-[![My Skills](https://skillicons.dev/icons?i=c,python,django,html,css,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,python,django,html,css,react,nodejs,docker)](https://skillicons.dev)
 
 ## Other tools
 [![My Skills](https://skillicons.dev/icons?i=git,github,postgresql,sqlite,mysql,vscode,pycharm,postman,notion,photoshop)](https://skillicons.dev)
