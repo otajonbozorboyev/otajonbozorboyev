@@ -1,9 +1,9 @@
 # About me
 <p><h2>👋🏻Hey! I'm Otajon Bozorboyev. I'm Backend developer.</h2></p>
 
-- LinkedIn:                            [otajonbozorboyev](https://www.linkedin.com/in/otajonbozorboyev/)
-- Leetcode:                           [otajonbozorboyev571](https://leetcode.com/otajonbozorboyev571/)
-- Telegram:                           [otajonbozorboyev](https://t.me/otajonbozorboyev)
+- LinkedIn:                            [otajonbozorboev](https://www.linkedin.com/in/otajonbozorboyev/)
+- Leetcode:                           [otajonbozorboev](https://leetcode.com/otajonbozorboyev571/)
+- Telegram:                           [otajonbozorboev](https://t.me/otajonbozorboev)
 ## Main tools
 [![My Skills](https://skillicons.dev/icons?i=c,python,django,html,css,react,nodejs,docker)](https://skillicons.dev)
 
